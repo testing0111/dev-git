@@ -1,3 +1,3 @@
 # dev-git
 git prac
-this is for practice purpose
+This is for practice purpose.
